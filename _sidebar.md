@@ -1,6 +1,6 @@
 - [Accueil](README.md)
 - **📁 Cyber**
-  - [Pentest WIFI](notes/cyber/pentest_wifi.md)
-  - [Pentest AD](notes/cyber/pentest_ad.md)
+  - [Pentest WIFI](pentest_wifi.md)
+  - [Pentest AD](pentest_ad.md)
 - **📁 Réseau**
   

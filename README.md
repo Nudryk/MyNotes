@@ -10,3 +10,4 @@ Utilise le menu pour naviguer.
 ## 📁 Réseau
 * Switchs Alcatel
   * [6360](./reseau/Alcatel/6360.md)
+  * [6560](./reseau/Alcatel/6560.md)

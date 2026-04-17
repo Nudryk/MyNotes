@@ -13,4 +13,4 @@ Utilise le menu pour naviguer.
   * [6560](./reseau/Alcatel/6560.md)
  
 ## 📁 Code
-* [Python](./code/Python.md)
+* [Python](./code/python.md)

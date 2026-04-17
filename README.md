@@ -14,3 +14,4 @@ Utilise le menu pour naviguer.
  
 ## 📁 Code
 * [Python](./code/python.md)
+* [Powershell](./code/powershell.md)
